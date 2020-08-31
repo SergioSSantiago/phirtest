@@ -1,0 +1,18 @@
+[
+  {
+    "cod": 1,
+    "description": "cardio",
+    "price": 12.33
+  },
+  {
+    "cod": 2,
+    "description": "termometro",
+    "price": 54
+  },
+  {
+    "cod": 2,
+    "description": "respirador",
+    "price": 54
+  },
+  
+]
